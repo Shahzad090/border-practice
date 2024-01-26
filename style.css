@@ -1,0 +1,14 @@
+p.one {
+    border-style: solid;
+    border-width: 1px;
+    margin: 1%;
+    padding: 1%;
+    scroll-behavior: inherit;
+}
+p.two {border-style: dotted;}
+p.three {border-style: dashed;}
+p.four {border-style: double;}
+p.five {border-style: groove;}
+p.six {border-style: ridge;}
+p.seven {border-style: inset;}
+p.eight {border-style: outset;}
